@@ -1,0 +1,40 @@
+_repo: Morituri--Three-One-Act-PlaysTeja-Fritzchen-The-Eternal-Masculine_34359
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Alexander, Archibald
+    birthdate: 1855
+    deathdate: 1917
+    gutenberg_agent_id: '39951'
+    url: http://www.gutenberg.org/2009/agents/39951
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sudermann, Hermann
+    aliases:
+    - Sunderman, Hermann
+    - Sudermann, Herman
+    - Sudermann, H. (Hermann)
+    birthdate: 1857
+    deathdate: 1928
+    gutenberg_agent_id: '2769'
+    url: http://www.gutenberg.org/2009/agents/2769
+    wikipedia: http://en.wikipedia.org/wiki/Hermann_Sudermann
+description: Teja -- Fritzchen -- The eternal masculine.
+gutenberg_issued: '2010-11-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34359'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into English'
+title: 'Morituri: Three One-Act Plays
+
+  Teja—Fritzchen—The Eternal Masculine'
+url: http://www.gutenberg.org/ebooks/34359
